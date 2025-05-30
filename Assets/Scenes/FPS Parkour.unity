@@ -119,6 +119,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010753827}
     m_Modifications:
+    - target: {fileID: 114012886944583296, guid: 4f9928496d23765439c29f149d59bbcb,
+        type: 3}
+      propertyPath: precio
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 999211635335479916, guid: 4f9928496d23765439c29f149d59bbcb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -361,6 +366,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deadFallHeight: -15
+--- !u!114 &225152043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 225152036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c797eccf8b2be04ab05c72b434e1234, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerMoney: 100
 --- !u!1 &244022910
 GameObject:
   m_ObjectHideFlags: 0
@@ -460,6 +478,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010753827}
     m_Modifications:
+    - target: {fileID: 114012886944583296, guid: 4f9928496d23765439c29f149d59bbcb,
+        type: 3}
+      propertyPath: precio
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 999211635335479916, guid: 4f9928496d23765439c29f149d59bbcb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -529,6 +552,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010753827}
     m_Modifications:
+    - target: {fileID: 114199935911798580, guid: 2723fd5328f76ef4a8422f5e7c7fcd89,
+        type: 3}
+      propertyPath: precio
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 750791879780502391, guid: 2723fd5328f76ef4a8422f5e7c7fcd89,
         type: 3}
       propertyPath: m_RootOrder
@@ -695,6 +723,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010753827}
     m_Modifications:
+    - target: {fileID: 114012886944583296, guid: 4f9928496d23765439c29f149d59bbcb,
+        type: 3}
+      propertyPath: precio
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 999211635335479916, guid: 4f9928496d23765439c29f149d59bbcb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1703,6 +1736,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010753827}
     m_Modifications:
+    - target: {fileID: 114012886944583296, guid: 4f9928496d23765439c29f149d59bbcb,
+        type: 3}
+      propertyPath: precio
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 999211635335479916, guid: 4f9928496d23765439c29f149d59bbcb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1850,6 +1888,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 8301348219256675485, guid: d23a71d629ca2cb428e58efdcf5d4c1b,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d23a71d629ca2cb428e58efdcf5d4c1b, type: 3}
 --- !u!1001 &34562563042702604
@@ -1958,6 +2001,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010753827}
     m_Modifications:
+    - target: {fileID: 114012886944583296, guid: 4f9928496d23765439c29f149d59bbcb,
+        type: 3}
+      propertyPath: precio
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 999211635335479916, guid: 4f9928496d23765439c29f149d59bbcb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2027,6 +2075,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2010753827}
     m_Modifications:
+    - target: {fileID: 114199935911798580, guid: 2723fd5328f76ef4a8422f5e7c7fcd89,
+        type: 3}
+      propertyPath: precio
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 2988924501858265922, guid: 2723fd5328f76ef4a8422f5e7c7fcd89,
         type: 3}
       propertyPath: m_Name
