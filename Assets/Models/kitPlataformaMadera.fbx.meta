@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 439e86e40db8dc146a2ae26c883622fe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Columna 6x0.001
+    100002: Columna 6x0.002
+    100004: Columna 6x0.004
+    100006: Columna 6x0.3
+    100008: Cube
+    100010: //RootNode
+    100012: tornillo
+    100014: tornillo.001
+    100016: tornillo.002
+    100018: tornillo.003
+    100020: tornillo.004
+    100022: tornillo.005
+    100024: tornillo.006
+    100026: tornillo.007
+    100028: tornillo.008
+    100030: viga 4x0.001
+    100032: viga 4x0.3
+    400000: Columna 6x0.001
+    400002: Columna 6x0.002
+    400004: Columna 6x0.004
+    400006: Columna 6x0.3
+    400008: Cube
+    400010: //RootNode
+    400012: tornillo
+    400014: tornillo.001
+    400016: tornillo.002
+    400018: tornillo.003
+    400020: tornillo.004
+    400022: tornillo.005
+    400024: tornillo.006
+    400026: tornillo.007
+    400028: tornillo.008
+    400030: viga 4x0.001
+    400032: viga 4x0.3
+    2100000: Madera_tablas
+    2100002: Tornillo
+    2100004: Madera Columna
+    2300000: Columna 6x0.001
+    2300002: Columna 6x0.002
+    2300004: Columna 6x0.004
+    2300006: Columna 6x0.3
+    2300008: Cube
+    2300010: tornillo
+    2300012: tornillo.001
+    2300014: tornillo.002
+    2300016: tornillo.003
+    2300018: tornillo.004
+    2300020: tornillo.005
+    2300022: tornillo.006
+    2300024: tornillo.007
+    2300026: tornillo.008
+    2300028: viga 4x0.001
+    2300030: viga 4x0.3
+    3300000: Columna 6x0.001
+    3300002: Columna 6x0.002
+    3300004: Columna 6x0.004
+    3300006: Columna 6x0.3
+    3300008: Cube
+    3300010: tornillo
+    3300012: tornillo.001
+    3300014: tornillo.002
+    3300016: tornillo.003
+    3300018: tornillo.004
+    3300020: tornillo.005
+    3300022: tornillo.006
+    3300024: tornillo.007
+    3300026: tornillo.008
+    3300028: viga 4x0.001
+    3300030: viga 4x0.3
+    4300000: Cube
+    4300002: tornillo
+    4300004: tornillo.001
+    4300006: tornillo.002
+    4300008: tornillo.003
+    4300010: tornillo.004
+    4300012: tornillo.005
+    4300014: tornillo.006
+    4300016: tornillo.007
+    4300018: tornillo.008
+    4300020: viga 4x0.3
+    4300022: viga 4x0.001
+    4300024: Columna 6x0.3
+    4300026: Columna 6x0.001
+    4300028: Columna 6x0.002
+    4300030: Columna 6x0.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madera Columna
+    second: {fileID: 2100000, guid: 51a67392c7bf31a4295c394f7be25c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madera_tablas
+    second: {fileID: 2100000, guid: 043e76d6bcef7a845bc5edabf19954f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tornillo
+    second: {fileID: 2100000, guid: f083b03c2a3506847994cdb1738451c1, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_WoodRough0089_1_seamless_S
+    second: {fileID: 2800000, guid: 1bab7738fe77b934ca3f2885a1da08a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rough_wood_diff_1k
+    second: {fileID: 2800000, guid: 8d9ca5fc85a58934d8b3290dc7b15c9f, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
