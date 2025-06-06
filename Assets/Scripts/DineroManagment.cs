@@ -6,7 +6,9 @@ public class DineroManagment : MonoBehaviour
 {
 
     public float playerMoney;
-   
+    public UIManager UiManager;
+
+
     public void UpdateMoney(float amount)
     {
      
@@ -16,8 +18,14 @@ public class DineroManagment : MonoBehaviour
         } else {
 
            playerMoney += amount;
+           UiManager.UpdatemoneyUI(playerMoney.ToString());
        
         }
     }
-    
+
+   
+  
+
+
+
 }
