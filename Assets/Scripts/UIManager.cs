@@ -7,6 +7,9 @@ public class UIManager : MonoBehaviour
 {
     public TextMeshProUGUI TxTMoney;
     
+    void Start() {
+        
+    }
 
    public void  UpdatemoneyUI(string moneyAmount)
     {
