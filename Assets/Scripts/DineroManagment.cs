@@ -9,22 +9,29 @@ public class DineroManagment : MonoBehaviour
     public UIManager uiManager;
 
 
-    public void UpdateMoney(float amount)
+    public bool UpdateMoney(float amount)
     {
      
         if(playerMoney + amount < 0)
         {
             //impedir compra 
+            return false;
+           
         } else {
 
            playerMoney += amount;
            uiManager.UpdatemoneyUI(playerMoney.ToString());
-       
+           return true;
+
         }
     }
 
-   
-  
+    private void Start()
+    {
+        uiManager.UpdatemoneyUI(playerMoney.ToString());
+    }
+
+
 
 
 
