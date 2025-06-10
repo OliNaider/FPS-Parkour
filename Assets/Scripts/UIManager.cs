@@ -6,6 +6,7 @@ using TMPro;
 public class UIManager : MonoBehaviour
 {
     public TextMeshProUGUI TxTMoney;
+    public TextMeshProUGUI TxTHealth;
     
     void Start() {
         
@@ -15,5 +16,10 @@ public class UIManager : MonoBehaviour
     {
         TxTMoney.text = moneyAmount;
 ;
+    }
+
+    public void UpdateHealthUI(string healthAmount)
+    {
+        TxTMoney.text = healthAmount;
     }
 }
