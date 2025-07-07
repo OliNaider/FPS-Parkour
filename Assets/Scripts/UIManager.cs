@@ -20,6 +20,6 @@ public class UIManager : MonoBehaviour
 
     public void UpdateHealthUI(string healthAmount)
     {
-        TxTMoney.text = healthAmount;
+        TxTHealth.text = healthAmount;
     }
 }
